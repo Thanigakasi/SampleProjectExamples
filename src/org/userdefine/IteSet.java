@@ -39,7 +39,8 @@ public class IteSet {
 			 System.out.println("Print entry set: "+entry);
 			 System.out.println("Print key: "+entry.getKey());
 			 System.out.println("Print value: "+ entry.getValue());
-			 
+			 System.out.println("Git checking");
+			 System.out.println("Git modification checking");
 		}
 	}
 
