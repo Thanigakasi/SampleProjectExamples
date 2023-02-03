@@ -25,7 +25,9 @@ public class EncapsulationExample {
 		EncapsulationExample e1=new EncapsulationExample();
 		e1.setName("Thanigasalam");
 		System.out.println(e1.getName());
-		
+		System.out.println("diyyya");
+		System.out.println("rakesh");
+		System.out.println("madhan");
 	}
 	 
 
