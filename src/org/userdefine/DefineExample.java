@@ -62,14 +62,14 @@ public class DefineExample {
 			
 		}
 		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-		
+		System.out.println("Hi thanigasalam");
 		System.out.println("******user defined AMP examples************");
 		
 		Map<Integer, EmployeeSample> m=new LinkedHashMap<Integer, EmployeeSample>();
 		EmployeeSample m1=new EmployeeSample(10, "xxx", 124578963);
 		EmployeeSample m2=new EmployeeSample(11, "yyy", 752845666);
 		EmployeeSample m3=new EmployeeSample(10, "xxx", 457821585);
-		
+		System.out.println("Hello world");
 		m.put(1, m1);
 		m.put(2, m2);
 		m.put(3, m3);

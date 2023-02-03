@@ -20,7 +20,7 @@ public class DemoEx {
 			System.out.println(employeeSample.getName());
 			System.out.println(employeeSample.getPhone());
 		}
-		
+		System.out.println("Hello world");
 		System.out.println(li.get(0).getEmpid());
 		System.out.println(li.get(0).getName());
 		System.out.println(li.get(0).getPhone());
