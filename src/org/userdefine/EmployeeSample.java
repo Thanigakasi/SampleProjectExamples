@@ -5,12 +5,14 @@ public class EmployeeSample {
 	private int Empid;
 	private String Name;
 	private long Phone;
+	private float salary;
 	
 	public EmployeeSample(int empid, String name, long phone) {
 		
 		Empid = empid;
 		Name = name;
 		Phone = phone;
+		
 	}
 	
 	public int getEmpid() {
